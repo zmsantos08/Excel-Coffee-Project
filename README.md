@@ -1,6 +1,6 @@
 # Excel Coffee Sales Analysis
 
-This project was made while simultaneously watching this video: https://youtu.be/m13o5aqeCbM
+This project was made by me but guided using this video: https://youtu.be/m13o5aqeCbM
 
 # Final Dashboard
 
